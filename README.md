@@ -7,6 +7,8 @@ This project explores global COVID-19 trends using SQL for data extraction, tran
 The project aims to uncover key insights related to infection rates, death percentages, and vaccination progress worldwide. Using SQL queries, I extracted meaningful insights, cleaned the data, and then visualized it using Tableau. The final dashboard presents these findings in an interactive and digestible format.
 
 Link to Tableau Public: https://public.tableau.com/app/profile/daniel.groza8136/viz/shared/T5559HSJ8
+![image](https://github.com/user-attachments/assets/51161fba-7602-4577-90c1-bd50a2037f7d)
+
 
 1a. Project Workflow
   
