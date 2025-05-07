@@ -35,9 +35,9 @@ Tools Used: MySQL, SQL Workbench
 📊 Exploratory Analysis & Key Metrics
 
 🏢 Company Insights
-- 🔹 **Amazon led layoffs** (18,150), followed by **Google (12,000)**, Meta, and Microsoft
-- 🔹 30+ companies executed **100% workforce cuts**, typically **Series A–C** startups
-- 🔹 High-funding ≠ job security → Companies like **Crypto.com**, **Byju’s**, and **Better.com** raised capital before mass layoffs
+- 🔹 Amazon led layoffs (18,150), followed by Google (12,000), Meta, and Microsoft
+- 🔹 30+ companies executed 100% workforce cuts, typically Series A–C startups
+- 🔹 High-funding ≠ job security → Companies like Crypto.com, Byju’s, and Better.com raised capital before mass layoffs
 
 📆 Temporal Insights
 - 📈 Peak month: January 2023 — 84,714 layoffs
@@ -46,7 +46,7 @@ Tools Used: MySQL, SQL Workbench
 - 🕒 Rolling monthly totals used to detect surge cycles post-earnings and funding rounds
 
 🌍 Country-Level Trends
-- 🇺🇸 USA dominated layoffs, followed by India and Canada
+- USA dominated layoffs, followed by India and Canada
 - 🔍 U.S. layoffs alone made up 70%+ of the dataset
 
 💸 Stage-Based Risk
