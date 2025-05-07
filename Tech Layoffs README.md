@@ -56,6 +56,20 @@ Tools Used: MySQL, SQL Workbench
 | Post-IPO    | High           | Public scrutiny + revenue shortfalls |
 | Seed/Series A | Moderate     | Small cuts, high volatility    |
 
+📆 Yearly Layoff Totals
+
+| Year | Total Layoffs |
+|------|----------------|
+| 2020 | 81,068         |
+| 2021 | 15,823         |
+| 2022 | 161,711        |
+| 2023 | 127,277 (Q1)   |
+
+🧠 2022 marked a 10x increase over 2021, highlighting macroeconomic tightening, post-COVID rebalancing, and inflated hiring bursts in 2021.
+
+> ⚠️ The sharp dip in 2021 may indicate underreporting, post-COVID market recovery, or reporting lag. In contrast, 2022 reflects aggressive downsizing, especially among VC-backed and overfunded tech firms.
+
+
 🏆 Top Company by Year
 | Year | Company   | Layoffs |
 |------|-----------|---------|
