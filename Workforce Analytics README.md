@@ -97,7 +97,7 @@ This report was fully visualized in **Power BI** across four dashboards:
 4. **Termination Analysis**
 
 Each dashboard was shared in a detailed **LinkedIn article**, with annotated visuals and recommended actions for business stakeholders.  
-🔗 *(Link to LinkedIn Article – Coming Soon)*
+🔗 *(Link to LinkedIn Article – https://www.linkedin.com/pulse/chasing-fireflies-data-journey-through-workforce-analytics-groza-gyipe)*
 
 ---
 
